@@ -1,4 +1,4 @@
-# Farm Trace Blockchain: Enhancing Transparency and Traceability in Agricultural Supply Chain Management
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/cfecb0c4-d4ad-46d0-9590-f69ec9466a45" /># Farm Trace Blockchain: Enhancing Transparency and Traceability in Agricultural Supply Chain Management
 
 ## 📌 Description
 
@@ -101,3 +101,5 @@ Adapa Greeshmi Karunya
 Athuluri Meghana
 Uggirala Sairam Manikanta
 Duggirala Sameer
+Bharath Singh Jebaraj
+Vivekrabinson K
